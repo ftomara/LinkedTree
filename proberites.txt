@@ -1,0 +1,5 @@
+100001 House 250000 123_Main_St Available
+100002 Apartment 1200 456_Oak_St Sold
+100003 Condo 180000 789_Pine_St Available
+100004 Commercial 500000 321_Elm_St Available
+100005 House 300000 987_Maple_St Sold
